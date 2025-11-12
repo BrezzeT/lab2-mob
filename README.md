@@ -41,27 +41,6 @@ app/
 │   │       └── fragment_timer.xml
 │   └── AndroidManifest.xml
 ```
-
-## Вимоги
-
-- Android Studio
-- Min SDK: 26
-- Target SDK: 36
-- Kotlin
-
-## Встановлення
-
-1. Клонуйте репозиторій:
-```bash
-git clone https://github.com/ваш-username/Mobiki.git
-```
-
-2. Відкрийте проект в Android Studio
-
-3. Синхронізуйте Gradle
-
-4. Запустіть на пристрої або емуляторі
-
 ## Автор
 
 Іщенко Євгеній Романович
